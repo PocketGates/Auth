@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auth_screen_horizontal_padding">11dp</dimen>
+    <dimen name="auth_card_vertical_padding">45dp</dimen>
+    <dimen name="auth_card_inner_horizontal_padding">20dp</dimen>
+    <dimen name="auth_card_inner_vertical_padding">62dp</dimen>
+    <dimen name="auth_inputs_spacing">25dp</dimen>
+    <dimen name="auth_err_message_vertical_padding">14dp</dimen>
+    <dimen name="auth_err_message_padding">15dp</dimen>
+    <dimen name="auth_forgot_pass_spacing">59dp</dimen>
+    <dimen name="border_err_stroke_width">2dp</dimen>
+    <dimen name="pass_icon_width">25dp</dimen>
+</resources>

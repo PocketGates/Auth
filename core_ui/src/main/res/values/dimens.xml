@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auth_screen_horizontal_padding">11dp</dimen>
+    <dimen name="big_btn_height">62dp</dimen>
+    <dimen name="snackbar_vertical_padding">25dp</dimen>
+</resources>

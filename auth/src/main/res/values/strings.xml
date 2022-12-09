@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="password_forgot">Forgot password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="has_account">Already have an account?</string>
+    <string name="user_is_not_registered">This user is not registered</string>
+    <string name="the_pass_is_wrong">The password is wrong</string>
+    <string name="password_is_weak">Password must be at least 6 characters long</string>
+    <string name="username_is_invalid">The username is invalid. It must be your actual email address.</string>
+    <string name="username_is_taken">The username is already taken. Try another</string>
+    <string name="no_error">OK</string>
+    <string name="something_is_wrong">Something is wrong</string>
+    <string name="no_reset_user">There is no user corresponding to the given email address</string>
+    <string name="password_reset_message">A message with instructions has been sent to your email</string>
+    <string name="user_name_is_invalid">Please enter the correct username</string>
+    <string name="firebase_network_error">There is problem with network. Check your connection and try again</string>
+    <string name="firebase_too_many_requests">Too many requests. Try again later.</string>
+</resources>
